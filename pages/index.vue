@@ -36,10 +36,10 @@
     data() {
       return {
         profileData: {
-          name: 'Kaleb Arora',
+          name: 'Butter/Kaleb',
           role: 'DEV-OPS CONSULTANT',
           greeting: 'Hello, I\'m Butter/Kaleb',
-          bio: `I'm a DevOps consultant based out of Miami, Florida. I work with several clients optimizing systems and offering advice. I'm an incoming member of the Gator Nation in the Herbert Werthiem College of Engineering at the University of Florida.`,
+          bio: `I'm a DevOps consultant. I work with several clients optimizing systems and offering advice. I'm an incoming member of the Gator Nation in the Herbert Werthiem College of Engineering at the University of Florida.`,
           socialLinks: [
             { 
               url: 'https://github.com/kkbutter2281', 
